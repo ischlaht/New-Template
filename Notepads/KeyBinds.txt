@@ -1,0 +1,36 @@
+. Create-slimn		CNTL+ALT+[KEY]	| Style-		CNTL+SHIFT+ALT+[KEY]
+       -	Button 	-- [B] ....	|	-Full	-- [c] ....
+       -	Div 	-- [D] ....	|	-Font	-- [F] ....
+ <3    -	Function	-- [F] ....	|<3	-Bck-Img	-- [i] ....
+ <3    -	Input	-- [I] ....	|
+       -	Script	-- [s] ....	|
+       -	Cons.log	-- [L] ....	|
+       -	Anchor	-- [A] ....	|
+
+ Create	CSS	CNTL+SHIFT+ALT+[KEY]
+       -	CSS Full	-- [C] ....
+       -	CSS Font	-- [F] ....
+
+_______________________________________________________________________________________
+
+
+<3  	Semi colon Add 	-- CNTL + SHIFT + [END] ....
+	Delete Line 	== CNTL + SHIFT + [K] ....
+	Move entire line 	== ALT + [Up/Down] ....
+
+
+	Skip Word 	-- CNTL + [Left/Right]....
+	Highlight Word 	-- CNTL + Shift + [Left/Right] ....
+
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+
+
+
+	Start/Stop BOT	-- win + Play/Puase media key ....
+
+
+-- Done within VoiceBot!!!
+
+1925 
+E murry lot 70

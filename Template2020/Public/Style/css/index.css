@@ -1,0 +1,25 @@
+/* line 1, ../../../Workspace -Current Projects/Template2020/Public/Style/sass/index.sass */
+#indexPage {
+  font-size: 100%;
+  width: 100%;
+  height: 900px;
+  background-color: black;
+  display: inline-block;
+}
+
+/* line 8, ../../../Workspace -Current Projects/Template2020/Public/Style/sass/index.sass */
+#indexPage #loginSystem {
+  width: 30%;
+  text-align: center;
+  margin: auto;
+  margin-top: 200px;
+  background-color: grey;
+}
+
+/* line 17, ../../../Workspace -Current Projects/Template2020/Public/Style/sass/index.sass */
+#indexPage #loginSystem #loginTitle {
+  font-size: 200%;
+  color: red;
+}
+
+/*# sourceMappingURL=index.css.map */

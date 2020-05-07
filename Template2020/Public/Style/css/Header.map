@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "Header.css",
+	"sources": [
+		"../sass/Header.sass"
+	],
+	"sourcesContent": [
+		"body {\n    color: black; }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACD,KAAK,EAAE,KAAK;CAAG"
+}

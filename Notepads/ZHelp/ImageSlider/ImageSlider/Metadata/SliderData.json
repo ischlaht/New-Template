@@ -1,0 +1,22 @@
+{
+    "SliderImages": [
+        {
+            "ImageID": "ImageID1",
+            "ImageName": "AbstractMOD.jpg",
+            "ImageFolder": "foldername here1",
+            "ItemPrice": "$$item price here1"
+        },
+        {
+            "ImageID": "ImageID2",
+            "ImageName": "SmokeOnBlackBackGround.jpg",
+            "ImageFolder": "foldername here2",
+            "ItemPrice": "$$item price here2"
+        },
+        {
+            "ImageID": "ImageID3",
+            "ImageName": "SmokeOnFloor.jpg",
+            "ImageFolder": "foldername here3",
+            "ItemPrice": "$$item price here3"
+        }
+    ]
+}

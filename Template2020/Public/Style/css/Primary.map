@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "Primary.css",
+	"sources": [
+		"../sass/Primary.sass"
+	],
+	"sourcesContent": [
+		"body {\n    color: green;\n    background-color: blue; }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACD,KAAK,EAAE,KAAK;EACZ,gBAAgB,EAAE,IAAI;CAAG"
+}
